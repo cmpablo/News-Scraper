@@ -20,9 +20,9 @@ View the app here: (link)
 * JavaScript
 * MongoDB
 * npm packages:
-    * ![Express](https://www.npmjs.com/package/express)
-    * ![Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
-    * ![Cheerio](https://www.npmjs.com/package/cheerio)
-    * ![Mongoose](https://www.npmjs.com/package/mongoose)
-    * ![Body-Parser](https://www.npmjs.com/package/body-parser)
-    * ![Request](https://www.npmjs.com/package/request)
+    * [Express](https://www.npmjs.com/package/express)
+    * [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+    * [Cheerio](https://www.npmjs.com/package/cheerio)
+    * [Mongoose](https://www.npmjs.com/package/mongoose)
+    * [Body-Parser](https://www.npmjs.com/package/body-parser)
+    * [Request](https://www.npmjs.com/package/request)
